@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cognizant.policymicroservice.controller.TestGetChainOfProviders
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.291 s - in com.cognizant.policymicroservice.controller.TestGetChainOfProviders
